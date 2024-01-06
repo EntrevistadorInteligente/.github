@@ -10,19 +10,26 @@ Por ahora el proyecto está en una fase muy temprana, pero la idea es que los de
 
 ## ¿Cómo puedo colaborar?
 
+El proyecto esta en una fase muy temprana y las tareas las estamos gestionando en el [discord de EntrevistadorInteligente][discord] y en el tablero de [Trello][trello].
+
 Si quieres colaborar en el proyecto, puedes hacerlo de varias formas:
 
-- Únete al [discord de EntrevistadorInteligente][] y habla con nosotros sobre el proyecto.
+- Si quieres hacer una contribución puntual, puedes hacer un fork del repositorio, hacer los cambios que quieras y hacer un pull request al repositorio original para que lo revisemos y lo añadamos al proyecto.
 
+- Si quieres colaborar asiduamente, puedes unirte al equipo de EntrevistadorInteligente. Para ello, haz lo siguiente:
 
-- Únete a la organización de GitHub [EntrevistadorInteligente][admin] y añade tu usuario de GitHub al equipo `all` en el fichero [`.github/organization.yml`][organization.yml].
-- 
+  - Crea una cuenta en GitHub si no la tienes ya.
 
-## Como colaborar en el proyecto
+  - Crea una cuenta en Discord si no la tienes ya.
 
-Vete al repositorio de [admin] y creas una PR añadiendo tu usuario de GitHub a al equipo de `all` en el fichero [`.github/organization.yml`][organization.yml].
+  - Únete al [discord de EntrevistadorInteligente][discord] y habla con nosotros sobre el proyecto.
+
+  - Únete a la organización de GitHub EntrevistadorInteligente y añade tu usuario de GitHub al equipo `all` en el fichero [`.github/organization.yml`][organization.yml] en repositorio [admin].
+
+  - Clónate el repositorio y empieza a programar. Cuando tengas algo que quieras añadir al proyecto, haz un pull request y lo revisará algún miembro del equipo.
 
 <!-- Links -->
-[discord]: <https://discord.gg/
 [admin]: <https://github.com/EntrevistadorInteligente/admin>
+[discord]: <https://discord.com/invite/KdDEZsjh>
 [organization.yml]: <https://github.com/EntrevistadorInteligente/admin/blob/main/.github/organization.yml>
+[trello]: <https://trello.com/b/AcJl3llA/entrevistadorinteligente>
