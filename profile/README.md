@@ -28,6 +28,16 @@ Si quieres colaborar en el proyecto, puedes hacerlo de varias formas:
 
   - Clónate el repositorio y empieza a programar. Cuando tengas algo que quieras añadir al proyecto, haz un pull request y lo revisará algún miembro del equipo.
 
+  - Habla por el discord para pedir acceso al tablero de [Trello][trello] y así poder añadir tareas al tablero.
+
+## ¿En que puedo colaborar?
+
+En principio, cualquier persona puede colaborar en el proyecto
+
+- Si ves algún error en el código, puedes hacer un pull request para corregirlo.
+- Si tienes una idea para mejorar el proyecto, puedes comentarla en el [discord de EntrevistadorInteligente][discord]
+- Puedes asignarte alguna tarea del tablero de [Trello][trello] y hacerla directamente o comentar en el discord que quieres hacerla y algún miembro del equipo puede ayudarte o darte feedback.
+
 <!-- Links -->
 [admin]: <https://github.com/EntrevistadorInteligente/admin>
 [discord]: <https://discord.com/invite/KdDEZsjh>
