@@ -40,6 +40,6 @@ En principio, cualquier persona puede colaborar en el proyecto
 
 <!-- Links -->
 [admin]: <https://github.com/EntrevistadorInteligente/admin>
-[discord]: <https://discord.com/invite/KdDEZsjh>
+[discord]: <https://discord.gg/EN4yKMx3S8>
 [organization.yml]: <https://github.com/EntrevistadorInteligente/admin/blob/main/.github/organization.yml>
 [trello]: <https://trello.com/b/AcJl3llA/entrevistadorinteligente>
