@@ -4,42 +4,23 @@
 
 EntrevistadorInteligente es un proyecto de código abierto que pretende ayudar a los desarrolladores a encontrar trabajo.
 
+## ¿Cómo puedo usar EntrevistadorInteligente?
+
+Por ahora el proyecto esta en fase de desarrollo, pero puedes seguir el progreso del proyecto en los directos de [YouTube] o [Twitch]. Los directos se hacen los Lunes a las 19:00 (hora española).
+Además, puedes unirte al [discord de EntrevistadorInteligente][discord] para hablar con nosotros sobre el proyecto y para estar al tanto de las novedades del proyecto.
+
 ## ¿Cómo funciona?
 
 Por ahora el proyecto está en una fase muy temprana, pero la idea es que los desarrolladores puedan subir su CV a la plataforma y la oferta laborar a la que quieren aplicar o aplicaron. Entonces, la plataforma se encargará de hacer una entrevista técnica al candidato para que el candidato pueda practicar y mejorar sus habilidades de cara a la entrevista real. Además, la plataforma le dará feedback al candidato sobre su entrevista y le dirá en qué puntos debe mejorar.
 
+## ¿Por qué?
+
+La idea de este proyecto surgió de la necesidad de practicar entrevistas técnicas para encontrar trabajo, principalmente para los desarrolladores que están empezando en el mundo laboral y no tienen mucha experiencia en entrevistas técnicas o para los desarrolladores que llevan mucho tiempo en el mismo trabajo y no han tenido que hacer entrevistas técnicas en mucho tiempo y quieren practicar para estar preparados para cuando tengan que hacer una entrevista técnica. Además, la plataforma también puede ser útil para los desarrolladores que quieran cambiar de trabajo y quieran practicar para estar preparados para las entrevistas técnicas.
+
 ## ¿Cómo puedo colaborar?
 
-El proyecto esta en una fase muy temprana y las tareas las estamos gestionando en el [discord de EntrevistadorInteligente][discord] y en el tablero de [Trello][trello].
-
-Si quieres colaborar en el proyecto, puedes hacerlo de varias formas:
-
-- Si quieres hacer una contribución puntual, puedes hacer un fork del repositorio, hacer los cambios que quieras y hacer un pull request al repositorio original para que lo revisemos y lo añadamos al proyecto.
-
-- Si quieres colaborar asiduamente, puedes unirte al equipo de EntrevistadorInteligente. Para ello, haz lo siguiente:
-
-  - Crea una cuenta en GitHub si no la tienes ya.
-
-  - Crea una cuenta en Discord si no la tienes ya.
-
-  - Únete al [discord de EntrevistadorInteligente][discord] y habla con nosotros sobre el proyecto.
-
-  - Únete a la organización de GitHub EntrevistadorInteligente y añade tu usuario de GitHub al equipo `all` en el fichero [`.github/organization.yml`][organization.yml] en repositorio [admin].
-
-  - Clónate el repositorio y empieza a programar. Cuando tengas algo que quieras añadir al proyecto, haz un pull request y lo revisará algún miembro del equipo.
-
-  - Habla por el discord para pedir acceso al tablero de [Trello][trello] y así poder añadir tareas al tablero.
-
-## ¿En que puedo colaborar?
-
-En principio, cualquier persona puede colaborar en el proyecto
-
-- Si ves algún error en el código, puedes hacer un pull request para corregirlo.
-- Si tienes una idea para mejorar el proyecto, puedes comentarla en el [discord de EntrevistadorInteligente][discord]
-- Puedes asignarte alguna tarea del tablero de [Trello][trello] y hacerla directamente o comentar en el discord que quieres hacerla y algún miembro del equipo puede ayudarte o darte feedback.
+Ve a [contribuir.md] para ver como puedes contribuir al proyecto.
 
 <!-- Links -->
-[admin]: <https://github.com/EntrevistadorInteligente/admin>
+[contribuir.md]: <https://github.com/EntrevistadorInteligente/handbook/blob/main/contribuir.md>
 [discord]: <https://discord.gg/EN4yKMx3S8>
-[organization.yml]: <https://github.com/EntrevistadorInteligente/admin/blob/main/.github/organization.yml>
-[trello]: <https://trello.com/b/AcJl3llA/entrevistadorinteligente>
