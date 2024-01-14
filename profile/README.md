@@ -24,3 +24,5 @@ Ve a [contribuir.md] para ver como puedes contribuir al proyecto.
 <!-- Links -->
 [contribuir.md]: <https://github.com/EntrevistadorInteligente/handbook/blob/main/contribuir.md>
 [discord]: <https://discord.gg/EN4yKMx3S8>
+[Twitch]: <https://www.twitch.tv/jamiltonquinteroosorio>
+[YouTube]: <https://www.youtube.com/@jamiltonquinteroosorio/streams>
