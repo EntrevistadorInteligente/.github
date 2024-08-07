@@ -6,7 +6,7 @@ EntrevistadorInteligente es un proyecto de código abierto diseñado para ayudar
 
 ## Estado Actual del Proyecto
 
-Estamos emocionados de anunciar que hemos lanzado el MVP (Producto Mínimo Viable) de EntrevistadorInteligente https://www.kahop.com/es/entrevistas/inicio . Actualmente, estamos en una fase de correcciones y mejoras basadas en el feedback de nuestros usuarios y la comunidad. Además, estamos planeando la Fase Dos del proyecto, que incluirá nuevas funcionalidades y mejoras significativas. También estamos explorando oportunidades de monetización para garantizar la sostenibilidad del proyecto.
+Estamos emocionados de anunciar que hemos lanzado el MVP (Producto Mínimo Viable) de EntrevistadorInteligente https://www.kahop.com/es/pagina-principal/ . Actualmente, estamos en una fase de correcciones y mejoras basadas en el feedback de nuestros usuarios y la comunidad. Además, estamos planeando la Fase Dos del proyecto, que incluirá nuevas funcionalidades y mejoras significativas. También estamos explorando oportunidades de monetización para garantizar la sostenibilidad del proyecto.
 
 ## ¿Cómo Puedo Usar EntrevistadorInteligente?
 
