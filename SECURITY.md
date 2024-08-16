@@ -18,26 +18,3 @@ GitHub. No agregues detalles explícitos sobre el problema de seguridad que est�
 reportando en los contenidos del repositorio.
 
 **_Esto es perjudicial para la seguridad de todos los usuarios de EntrevistadorInteligente. No hay excepciones._**
-
-## Política de Embargo
-
-Los miembros del equipo de seguridad de EntrevistadorInteligente deben compartir
-la información únicamente dentro de los equipos Core y de Seguridad de
-EntrevistadorInteligente en una base de necesidad de saber para resolver el
-problema relacionado en EntrevistadorInteligente. La información que los
-miembros y otros reciben a través de la participación en este grupo no debe
-hacerse pública, compartirse o siquiera insinuarse, excepto con la aprobación
-explícita previa (que se manejará caso por caso). Esto es válido hasta que se
-cumpla la fecha/hora de divulgación pública acordada.
-
-Como ejemplo aclaratorio, esta política prohíbe a los miembros de seguridad de
-EntrevistadorInteligente compartir información de listas con sus empleadores, a
-menos que se hayan hecho arreglos previos directamente con un empleador.
-
-En el desafortunado caso de que compartas información más allá de lo permitido
-por esta política, debes informar urgentemente al equipo de seguridad de
-EntrevistadorInteligente sobre la información específica que se filtró y a
-quién se compartió, así como las medidas que se tomarán para prevenir futuras
-filtraciones.
-
-**Las ofensas repetidas pueden llevar a la eliminación del equipo de Seguridad o del equipo de EntrevistadorInteligente.**
